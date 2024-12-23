@@ -4,11 +4,11 @@
 <h1 align="center">Hola 👋, Soy David <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 Soy un desarrollador web con una pasión por diseñar y construir experiencias digitales excepcionales. Mi objetivo es contribuir en proyectos a través del desarrollo de soluciones web innovadoras y eficientes. Mi enfoque está en crear páginas web que sean visualmente atractivas, funcionales y fáciles de usar.
 
-- 🔭 Actualmente en mi tiempo libre estoy trabajando en [TimeTo](https://github.com/davitru60/TimeTo/tree/Projects)
+- 🔭 Actualmente en mi tiempo libre estoy trabajando en [TimeTo](https://github.com/davitru60/TimeTo/tree/Projects).
 
-- 🌱 Actualmente estoy aprendiendo **React** y mejorando mis conocimientos en **Angular y Node.js**
+- 🌱 Actualmente estoy aprendiendo **React** y mejorando mis conocimientos en **Angular y Node.js**.
 
-- 👯 Estoy buscando para colaborar en proyectos de **front-end y back-end**
+- 👯 Estoy buscando para colaborar en proyectos de **front-end y back-end**.
 
 
 <h3 align="center">Conecta conmigo:</h3>
